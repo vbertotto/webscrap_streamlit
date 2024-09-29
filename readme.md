@@ -23,7 +23,7 @@ Este projeto é um sistema de web scraping interativo desenvolvido com **Streaml
 1. **Clone o repositório**:
 
     ```bash
-    git clone https://github.com/seu-usuario/sistema-webscraping-streamlit.git
+    git clone https://github.com/vbertotto/webscrap_streamlit.git
     cd sistema-webscraping-streamlit
     ```
 
