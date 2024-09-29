@@ -65,5 +65,12 @@ Este projeto é um sistema de web scraping interativo desenvolvido com **Streaml
     - Clique em "Iniciar Scraping".
     - Visualize os dados extraídos e, se desejar, baixe-os em formato CSV.
 
-## 📁 Estrutura do Projeto
+## Contato
+
+Para mais informações ou perguntas, entre em contato:
+
+- **LinkedIn**: [Vinicius Bertotto](https://www.linkedin.com/in/vinicius-bertotto/)
+- **GitHub**: [vbertotto](https://github.com/vbertotto)
+- **Website**: [bertotto.online](https://bertotto.online/)
+```
 
